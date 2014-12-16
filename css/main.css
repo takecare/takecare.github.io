@@ -56,17 +56,15 @@ table {
 
 /* MY STYLES */
 
-/* *{margin:0; padding:0;} */
-
 html, body {
 	text-align: center;
 	height: 100%;
-	font-family: 'bariol_regularregular', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+	font-family: "bariol_regular", "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
 	font-size: 18px;
 	line-height: 23px;
 	background-color: #ffffff;
 	-webkit-font-smoothing: antialiased;
-   }
+}
 
 a {
 	text-decoration: none;
@@ -74,14 +72,14 @@ a {
 
 
 h1 {
-	font-family: 'bariol_boldbold';
+	font-family: 'bariol_bold';
 	font-size: 40px;
 	padding-bottom: 15px;
 	line-height: 40px;
 }
 
 h2 {
-	font-family: 'bariol_boldbold';
+	font-family: 'bariol_bold';
 	font-size: 32px;
 	padding-bottom: 10px;
 	line-height: 40px;
@@ -94,14 +92,14 @@ h3 {
 }
 
 h4 {
-	font-family: 'bariol_boldbold';
+	font-family: 'bariol_bold';
 	font-size: 32px;
 	padding-bottom: 5px;
 	line-height: 40px;
 }
 
 h5 {
-	font-family: 'bariol_boldbold';
+	font-family: 'bariol_bold';
 	font-size: 14px;
 	padding-bottom: 15px;
 	line-height: 20px;
@@ -142,7 +140,7 @@ strike {
 
 .main-btn {
 	background-color: white;
-	font-family: 'bariol_boldbold';
+	font-family: 'bariol_bold';
 	color: #004977;
 	padding:11px 30px;
 	border-radius: 20px;
@@ -159,7 +157,7 @@ strike {
 	margin: 0 auto;
 	padding: 50px 5px;
 	text-align: center;
-	font-family: 'bariol_boldbold';
+	font-family: 'bariol_bold';
 }
 
 .plan {
@@ -300,7 +298,7 @@ strike {
 	padding: 10px 50px;
 	border-radius: 10px;
 	color: white;
-	font-family: 'bariol_boldbold';
+	font-family: 'bariol_bold';
 }
 
 .feature-btn:hover {
@@ -398,7 +396,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	padding: 15px ;
 	-webkit-font-smoothing: antialiased;
 	width: 95%;
-	font-family: 'bariol_boldbold';
+	font-family: 'bariol_bold';
 }
 
 
