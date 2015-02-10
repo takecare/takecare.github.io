@@ -53,6 +53,22 @@ table {
 	border-spacing: 0;
 }
 
+/* *** TEMP STUFF *** */
+
+.outer-center-text {
+	display:table;
+	height:280px;
+	width:140px;
+	line-height:280px;
+	text-align:center;
+	margin:20px
+}
+
+.inner-center-text {
+	display:inline-block;
+	vertical-align:middle;
+	line-height:normal
+}
 
 /* MY STYLES */
 
